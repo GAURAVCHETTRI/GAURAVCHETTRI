@@ -8,7 +8,7 @@ I am a passionate MCA (Master of Computer Application) student at Cotton Univers
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at Cotton University.
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,discord,bots,devto,docker,express,fastapi ,figma,firebase,gcp,git,github,githubactions,gitlab,gmail,go,heroku,htmx,ai,js,jquery, kali,laravel,linkedin,linux,materialui ,mongodb,mysql,nginx,nodejs,npm,ps,php,postman,powershell,py,pycharm,replit,sqlite,stackoverflow,ts,ubuntu,vscode,webpack,wordpress )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,discord,bots,devto,docker,express,fastapi,figma,firebase,gcp,git,github,githubactions,gitlab,gmail,go,heroku,htmx,ai,js,jquery,kali,laravel,linkedin,linux,materialui,mongodb,mysql,nginx,nodejs,npm,ps,php,postman,powershell,py,pycharm,replit,sqlite,stackoverflow,ts,ubuntu,vscode,webpack,wordpress)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
