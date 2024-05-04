@@ -2,18 +2,6 @@
 
 I am a passionate MCA (Master of Computer Application) student at Cotton University , driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GAURAVCHETTRI&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GAURAVCHETTRI&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GAURAVCHETTRI&show_icons=true" />
-</picture>
-
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at Cotton University.
